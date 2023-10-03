@@ -1,0 +1,87 @@
+
+[
+  {
+    "id": 1,
+    "name": "Dr. John Doe",
+    "availableSlots": ["Monday", "Tuesday", "Wednesday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 15
+  },
+  {
+    "id": 2,
+    "name": "Dr. Jane Smith",
+    "availableSlots": ["Monday","Friday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 10
+  },
+  {
+    "id": 3,
+    "name": "Dr. David Johnson",
+    "availableSlots": ["Monday", "Wednesday", "Friday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 15
+  },
+  {
+    "id": 4,
+    "name": "Dr. Sarah Lee",
+    "availableSlots": ["Tuesday", "Thursday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 10
+  },
+  {
+    "id": 5,
+    "name": "Dr. Robert Brown",
+    "availableSlots": ["Monday", "Wednesday", "Friday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 15
+  },
+  {
+    "id": 6,
+    "name": "Dr. Emily Wilson",
+    "availableSlots": ["Tuesday", "Thursday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 10
+  },
+  {
+    "id": 7,
+    "name": "Dr. Michael Taylor",
+    "availableSlots": ["Monday", "Wednesday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 10
+  },
+  {
+    "id": 8,
+    "name": "Dr. Lisa Anderson",
+    "availableSlots": ["Tuesday", "Thursday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 10
+  },
+  {
+    "id": 9,
+    "name": "Dr. William Martinez",
+    "availableSlots": ["Monday", "Wednesday", "Friday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 15
+  },
+  {
+    "id": 10,
+    "name": "Dr. Laura Harris",
+    "availableSlots": ["Tuesday", "Thursday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 10
+  },
+  {
+    "id": 11,
+    "name": "Dr. Kevin Turner",
+    "availableSlots": ["Monday", "Wednesday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 10
+  },
+  {
+    "id": 12,
+    "name": "Dr. Amanda Clark",
+    "availableSlots": ["Tuesday", "Thursday"],
+    "maxPatientsPerDay": 5,
+    "maxPatientsAcrossDays": 10
+  }
+]
